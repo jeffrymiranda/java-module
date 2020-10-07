@@ -1,0 +1,9 @@
+/out/
+/music-ui-start.iml
+/.idea/
+/academy.jmiranda.common/academy.jmiranda.common.iml
+/academy.jmiranda.db/academy.jmiranda.db.iml
+/academy.jmiranda.ui/academy.jmiranda.ui.iml
+
+*.class
+.DS_Store
